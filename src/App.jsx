@@ -807,13 +807,9 @@ function App() {
       {/* Footer */}
       <footer className="bg-purple-800 text-white py-8 px-4">
           <div className="container mx-auto text-center">
-              <div className="flex justify-center space-x-6 mb-6">
-                  <a href="#" className="text-white hover:text-pink-200"><i className="fab fa-instagram text-2xl"></i></a>
-                  <a href="#" className="text-white hover:text-pink-200"><i className="fab fa-facebook text-2xl"></i></a>
-                  <a href="#" className="text-white hover:text-pink-200"><i className="fab fa-twitter text-2xl"></i></a>
-              </div>
+              
               <p className="dancing-script text-2xl mb-4">Made with <i className="fas fa-heart text-pink-400"></i> for you</p>
-              <p>© 2023 Our Monthsary. All rights reserved.</p>
+              <p>© 2025 Our Monthsary. All rights reserved.</p>
           </div>
       </footer>
     </>
