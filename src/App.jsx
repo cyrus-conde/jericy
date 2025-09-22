@@ -307,7 +307,7 @@ function App() {
                           <h3 className="text-xl font-semibold text-purple-700">3rd Month</h3>
                           <p className="text-gray-600">November 23, 2025</p>
                       </div>
-                      <div className="month-card bg-white rounded-xl p-6 shadow-lg text-center transform hover:scale-105 transition duration-300 cursor-pointer" data-month="3">
+                      <div className="month-card bg-white rounded-xl p-6 shadow-lg text-center transform hover:scale-105 transition duration-300 cursor-pointer" data-month="4">
                           <div className="mb-4">
                               <div className="inline-block p-4 bg-pink-100 rounded-full">
                                   <i className="fas fa-heart text-2xl text-pink-500"></i>
@@ -316,7 +316,7 @@ function App() {
                           <h3 className="text-xl font-semibold text-purple-700">4th Month</h3>
                           <p className="text-gray-600">December 23, 2025</p>
                       </div>
-                      <div className="month-card bg-white rounded-xl p-6 shadow-lg text-center transform hover:scale-105 transition duration-300 cursor-pointer" data-month="3">
+                      <div className="month-card bg-white rounded-xl p-6 shadow-lg text-center transform hover:scale-105 transition duration-300 cursor-pointer" data-month="5">
                           <div className="mb-4">
                               <div className="inline-block p-4 bg-pink-100 rounded-full">
                                   <i className="fas fa-heart text-2xl text-pink-500"></i>
@@ -334,7 +334,7 @@ function App() {
                           <h3 className="text-xl font-semibold text-purple-700">6th Month</h3>
                           <p className="text-gray-600">February 23, 2026</p>
                       </div>
-                      <div className="month-card bg-white rounded-xl p-6 shadow-lg text-center transform hover:scale-105 transition duration-300 cursor-pointer" data-month="3">
+                      <div className="month-card bg-white rounded-xl p-6 shadow-lg text-center transform hover:scale-105 transition duration-300 cursor-pointer" data-month="7">
                           <div className="mb-4">
                               <div className="inline-block p-4 bg-pink-100 rounded-full">
                                   <i className="fas fa-heart text-2xl text-pink-500"></i>
@@ -343,7 +343,7 @@ function App() {
                           <h3 className="text-xl font-semibold text-purple-700">7th Month</h3>
                           <p className="text-gray-600">March 23, 2026</p>
                       </div>
-                      <div className="month-card bg-white rounded-xl p-6 shadow-lg text-center transform hover:scale-105 transition duration-300 cursor-pointer" data-month="3">
+                      <div className="month-card bg-white rounded-xl p-6 shadow-lg text-center transform hover:scale-105 transition duration-300 cursor-pointer" data-month="8">
                           <div className="mb-4">
                               <div className="inline-block p-4 bg-pink-100 rounded-full">
                                   <i className="fas fa-heart text-2xl text-pink-500"></i>
@@ -352,7 +352,7 @@ function App() {
                           <h3 className="text-xl font-semibold text-purple-700">8th Month</h3>
                           <p className="text-gray-600">April 23, 2026</p>
                       </div>
-                      <div className="month-card bg-white rounded-xl p-6 shadow-lg text-center transform hover:scale-105 transition duration-300 cursor-pointer" data-month="3">
+                      <div className="month-card bg-white rounded-xl p-6 shadow-lg text-center transform hover:scale-105 transition duration-300 cursor-pointer" data-month="9">
                           <div className="mb-4">
                               <div className="inline-block p-4 bg-pink-100 rounded-full">
                                   <i className="fas fa-heart text-2xl text-pink-500"></i>
@@ -361,7 +361,7 @@ function App() {
                           <h3 className="text-xl font-semibold text-purple-700">9th Month</h3>
                           <p className="text-gray-600">May 23, 2026</p>
                       </div>
-                      <div className="month-card bg-white rounded-xl p-6 shadow-lg text-center transform hover:scale-105 transition duration-300 cursor-pointer" data-month="3">
+                      <div className="month-card bg-white rounded-xl p-6 shadow-lg text-center transform hover:scale-105 transition duration-300 cursor-pointer" data-month="10">
                           <div className="mb-4">
                               <div className="inline-block p-4 bg-pink-100 rounded-full">
                                   <i className="fas fa-heart text-2xl text-pink-500"></i>
@@ -370,7 +370,7 @@ function App() {
                           <h3 className="text-xl font-semibold text-purple-700">10th Month</h3>
                           <p className="text-gray-600">June 23, 2026</p>
                       </div>
-                      <div className="month-card bg-white rounded-xl p-6 shadow-lg text-center transform hover:scale-105 transition duration-300 cursor-pointer" data-month="3">
+                      <div className="month-card bg-white rounded-xl p-6 shadow-lg text-center transform hover:scale-105 transition duration-300 cursor-pointer" data-month="11">
                           <div className="mb-4">
                               <div className="inline-block p-4 bg-pink-100 rounded-full">
                                   <i className="fas fa-heart text-2xl text-pink-500"></i>
@@ -379,7 +379,7 @@ function App() {
                           <h3 className="text-xl font-semibold text-purple-700">11th Month</h3>
                           <p className="text-gray-600">July 23, 2026</p>
                       </div>
-                      <div className="month-card bg-white rounded-xl p-6 shadow-lg text-center transform hover:scale-105 transition duration-300 cursor-pointer" data-month="3">
+                      <div className="month-card bg-white rounded-xl p-6 shadow-lg text-center transform hover:scale-105 transition duration-300 cursor-pointer" data-month="12">
                           <div className="mb-4">
                               <div className="inline-block p-4 bg-pink-100 rounded-full">
                                   <i className="fas fa-heart text-2xl text-pink-500"></i>
@@ -388,7 +388,7 @@ function App() {
                           <h3 className="text-xl font-semibold text-purple-700">12th Month</h3>
                           <p className="text-gray-600">August 23, 2026</p>
                       </div>
-                      <div className="month-card bg-white rounded-xl p-6 shadow-lg text-center transform hover:scale-105 transition duration-300 cursor-pointer" data-month="3">
+                      <div className="month-card bg-white rounded-xl p-6 shadow-lg text-center transform hover:scale-105 transition duration-300 cursor-pointer" data-month="13">
                           <div className="mb-4">
                               <div className="inline-block p-4 bg-pink-100 rounded-full">
                                   <i className="fas fa-heart text-2xl text-pink-500"></i>
@@ -401,7 +401,7 @@ function App() {
               </div>
           </section>
           
-          {/* About Us Section */}
+          {/* About Us Section 
           <section id="about" className="py-12 px-4 bg-lavender">
               <div className="container mx-auto">
                   <h2 className="dancing-script text-3xl md:text-5xl text-center text-purple-700 mb-8">Our Story</h2>
@@ -412,8 +412,17 @@ function App() {
                       </div>
                       <div className="md:w-1/2">
                           <h3 className="text-2xl font-semid-bold text-purple-700 mb-4">How We Met</h3>
-                          <p className="text-gray-700 mb-4">It was a sunny afternoon at the local coffee shop when our eyes first met. I was captivated by your smile and the way your eyes lit up when you talked about your passions.</p>
-                          <p className="text-gray-700 mb-4">We started with casual conversations that soon turned into deep discussions about life, dreams, and everything in between. I knew there was something special about you from that very first day.</p>
+                          <p className="text-gray-700 mb-4">
+                            I saw you first sa Social Media, particulary in Instagram. It's not like a random meet-up at cafe or somewhere like the others, but it feels the same.
+                            At first I thought it's just nothing, but you keep on appearing sa akoang feed haha Then I ask my friends sa imohang name.
+                            After nako  nakabalo saimohang name, wala gihapon ko ning contact nimo, because feel nako dili pa ko ready, kay daghan pasab kog ayohon sa akong kinabuhi.
+                            Pero nagkadugay, naka ingon kos akong kaugalingon nga mura mag walay bag-o sa akong self, nya if maghulat ko kung kanus-a ko maka feel nga ready, basi ug late na.
+                            Soooo, sakto jud diay ang ingon nila nga "Ready is not a feeling, it's a decision".
+                            Mao to nag take risk ko nga mag reply saimohang NGL HAHAHA.
+                            </p>
+                          <p className="text-gray-700 mb-4">
+
+                             </p>
                           
                           <h3 className="text-2xl font-semibold text-purple-700 mt-8 mb-4">Our Journey</h3>
                           <p className="text-gray-700 mb-4">What started as friendship gradually blossomed into something beautiful. Our first date, our first laugh together, our first adventure - each moment has been a treasure.</p>
@@ -421,7 +430,7 @@ function App() {
                       </div>
                   </div>
               </div>
-          </section>
+          </section>*/}
       </main>
     
       {/* Letter Modals */}
@@ -438,16 +447,28 @@ function App() {
                   <div className="px-6 pb-6">
                       <div className="bg-pink-50 p-6 rounded-lg mb-6">
                           <h2 className="dancing-script text-3xl text-center text-pink-500">1st Monthsary</h2>
-                          <p className="text-center text-gray-600">October 15, 2023</p>
+                          <p className="text-center text-gray-600">September 23, 2025</p>
                       </div>
                       
                       <div className="letter-content">
-                          <p className="dancing-script text-xl text-gray-700 mb-4">My Dearest,</p>
-                          <p className="text-gray-700 mb-4">I can't believe it's already been one month since we started this beautiful journey together. Every moment with you feels like a dream come true.</p>
-                          <p className="text-gray-700 mb-4">Your smile brightens my day, your laughter is my favorite melody, and your love has transformed my world in ways I never imagined possible.</p>
-                          <p className="text-gray-700 mb-4">I remember our first date like it was yesterday - how nervous I was, and how quickly those nerves melted away when I saw your beautiful smile. That day confirmed what I had already felt in my heart - that we had something special.</p>
-                          <p className="text-gray-700 mb-4">I look forward to celebrating many more months with you, growing together, and building a future filled with love and happiness.</p>
-                          <p className="dancing-script text-xl text-gray-700 mt-8">Forever yours,<br/>Your Love</p>
+                          <p className="dancing-script text-xl text-gray-700 mb-4">Hi Ai,</p>
+                          <p className="text-gray-700 mb-4">HAPPY FIRSTTT MONTHSARYYYY AIIIII!!!</p>
+                          <p className="text-gray-700 mb-4">First of all, I thank God kay gi-answer jud niya ang akoang prayers. Yes, gipag-pray nako ni God nga unta ikaw na, and thankful jud pud ko kay nagka-kita gyud.</p>
+                          <p className="text-gray-700 mb-4">Paspas ra kaayo ang panahon no? 1 month na ta karon, nag sugod kog panguyab saimo sige pa ta ug kuyog, pero 2 days ra ta ga-kuyog nga uyab na hahaha LDR yarn. Ka-remember ko sa first chat2 nato, ga-dula ko ato ug Valorant with my students, tapos natingala sila nganong wala na galihok akoang character HAHAHAHAHA nya pagtan-aw nila nako kay ga-cellphone nya ga-ngisi HAHAHAHAHA palag kaayo sila ato.</p>
+                          <p className="text-gray-700 mb-4">Atoang first meet gyud kay di nako malimtan kay gaabot ra sa kanto sa inyoha kay naghatod ug Jabee HAHAHAHAHA literal nga dili pugngan diba? Mao biya na imong shared post ato HAHAHAHA. Tapos maygaliii nasundan, nanghagad ko nimo, girason ra nako ang silent sanctuary para magkuyog ta hahahaha pero kabalo ka didtoa sa compostela ato, gikilig ko kay naka feel ko ba nga murag mao najud ni HAHAHA kay ambot, kato man tong dili nako dawaton imohang 500 palit ug pagkaon nya gisipatan ko nimo HAHAHAHA wala ko naganahi tungod sa 500, naganahan kos feeling nga mura ko nimog gikasab-an nga mura tag uyab hahahaha. Tapos next natong kita kay katong palakaw na ko, dinner2 bago mag lagyo balik kay mubalik na sa Dipolog, kabalo ka kulbaan kayko ato kay wa ko kabalo mag unsa ko, unsay isulti, unsay istoryaan HAHAHAHA maygali na-success rasab ang dinner, with video pa.</p>
+                          <p className="text-gray-700 mb-4">Tapos diba pabalik na ko ug Dipolog, ganahan kaayo kos feeling ato ai kay effort kaayo ka sakoa ato nga mumata ka para pukawon ko, uhm even before man tong wala pa ta nagkita, pero yeah, ganahan kaykos feeling ato, yahaya ba nako para maka experience ani.</p>
+                          <p className="text-gray-700 mb-4">Thank you so much, Ai, for everything, sa pag love sa akoa, sa pag care sa akoa, ug sa walay sawa nga pag-sabot sa akoa. Kabalo ba ka nga before ta nag ila kay ana kos akoang self nga "Dili najud ko magpaka-honest sa sunod", pero pag-ila nato, bawi ra gihapon nako na nga mga istorya kay gusto nako ihatag akoang best saimoha. I want you in my life, forever. Gusto nako kitang duha honest ta sa usa'g usa, and safe tang duha nga di ta mabalaka.
+                          </p>
+                          <p className="text-gray-700 mb-4">Thank you sab kaayo Ai sa pag consider sa akoang feelings, bisan pa man tuod nga naa koy sigehan ug balik nga istorya, motubag ra gihapon ka and nag stay ra gihapon ka. THANK YOU KAAYOOO ANAAAA!!! And sorry sab ana Ai, gusto lang man gud nako nga ako lang HAHAHA bitaw Ai, gusto lang gud nako i-address na nga mga issue samtang sayo pa kaysa naman ginahilom ra nako na, mas lain sab hinuon, maayo manang kabalo ka sa unsay problem nako diba para ma-solutionan natong duha. Thank you again Ai sa pag sabot ana.</p>
+                          <p className="text-gray-700 mb-4">Sorry sab Ai sa akong batasan, sa akoang ka-luoran, sa akong ka-clingy, ug sa tanang dili nimo ganahan. Pero gina work nako na Ai kay para mahatag nako akoang best saimoha, dili ko ganahan mag stay sa kung unsa ko kung dili ka ganahan ana.</p>
+                          <p className="text-gray-700 mb-4">Kuan sab diay Ai, atoang first kiss hihi ambot kabantay ba ka anang gina kiss tika sa forehead sauna, basta mao nay una ayha sa cheek tapos sa lips.</p>
+                          <p className="text-gray-700 mb-4">Naa lang koy mga pangayoon saimoha Ai, ipabilin imohang trust, imohang pagka honest, and pagka loyal. Pangayoon nako na saimoha kay ihatag sab nako na saimoha. I believe man gud nga kita jud kung gustohon nato nga magkita, kung pilion nato nga mag trust sa usa'g usa, kung pilion nato magpaka honest sa usa'g usa, and magpaka loyal sa usa'g usa. Walay makaguba sa love kung both ta ga-work ana.</p>
+                          <p className="text-gray-700 mb-4">Kabalo ko Ai nga maabot jud ang adlaw nga makatilaw ta ug grabi nga away, unta pilion nato ang usa'g usa ana Ai. Sige ra kay puhon kung makaya na, pakaslan gyud dayon tika.</p>
+                          <p className="text-gray-700 mb-4">Naa koy iingon, kabalo ba ka nga kaning message kay gibuhat nako karon lang gyud pag uli namo gikan nagtaod cctv HAHAHAHA diba ana ko nimo naa sa koy buhaton, mao ni Ai, kay namali man ko gud ug estimate, abi nakog kauli nami karong adlawa sa Iligan HAHAHAHA maygali ma-control ra nako ang computer didtoa para ma-upload nako sa online kay para ma-edit nako diria. hahahaha</p>
+                          <p className="text-gray-700 mb-4">Unta ganahan ra kas akong gibuhat nga website Aiii, mao ni akoang plano before pa ka nag hisgot anang website, mao to gina push nako saimoha ang sa account nalang ka mag post HAHAHAHA</p>
+                          <p className="text-gray-700 mb-4">I LOVE YOUUUU!!! I MISS YOUUUUU!!! Mingaw nakos imoha Aiii, sa imong touch, kiss, ug hug... ug patong. HAHHAHAHA Basi tingala ka ha nikatawa kog kalit diri while ga video call ta HAHAHAHA wala intawon koy ka-chat lain Aiii, ikaw lang po wala nang iba.</p>
+                          <p className="text-gray-700 mb-4">Happy Monthsary usab Aiiii!!!</p>
+                          <p className="dancing-script text-xl text-gray-700 mt-8">Forever yours,<br/>Cyrus Conde na mahal na mahal ka</p>
                       </div>
                   </div>
               </div>
@@ -503,6 +524,54 @@ function App() {
               </div>
           </div>
       </div>
+      {/* 4th Month Modal */}
+      <div id="modal-4" className="modal fixed inset-0 flex items-center justify-center z-50">
+          <div className="modal-overlay absolute inset-0"></div>
+          <div className="modal-container bg-white w-11/12 md:max-w-2xl mx-auto rounded-xl shadow-lg z-50 overflow-y-auto max-h-screen">
+              <div className="modal-content py-4 px-6">
+                  <div className="flex justify-between items-center pb-3">
+                      <div className="modal-close cursor-pointer z-50 p-2">
+                          <i className="fas fa-times text-gray-500 hover:text-gray-700"></i>
+                      </div>
+                  </div>
+                  <div className="px-6 pb-6">
+                      <div className="bg-pink-50 p-6 rounded-lg mb-6">
+                          <h2 className="dancing-script text-3xl text-center text-pink-500">4th Monthsary</h2>
+                          <p className="text-center text-gray-600">Coming Soon</p>
+                      </div>
+                      
+                      <div className="letter-content text-center">
+                          <i className="fas fa-heart text-5xl text-pink-300 mb-6"></i>
+                          <p className="text-gray-700">Our next beautiful chapter is being written...</p>
+                      </div>
+                  </div>
+              </div>
+          </div>
+      </div>
+      {/* 5th Month Modal */}
+      <div id="modal-5" className="modal fixed inset-0 flex items-center justify-center z-50">
+          <div className="modal-overlay absolute inset-0"></div>
+          <div className="modal-container bg-white w-11/12 md:max-w-2xl mx-auto rounded-xl shadow-lg z-50 overflow-y-auto max-h-screen">
+              <div className="modal-content py-4 px-6">
+                  <div className="flex justify-between items-center pb-3">
+                      <div className="modal-close cursor-pointer z-50 p-2">
+                          <i className="fas fa-times text-gray-500 hover:text-gray-700"></i>
+                      </div>
+                  </div>
+                  <div className="px-6 pb-6">
+                      <div className="bg-pink-50 p-6 rounded-lg mb-6">
+                          <h2 className="dancing-script text-3xl text-center text-pink-500">5th Monthsary</h2>
+                          <p className="text-center text-gray-600">Coming Soon</p>
+                      </div>
+                      
+                      <div className="letter-content text-center">
+                          <i className="fas fa-heart text-5xl text-pink-300 mb-6"></i>
+                          <p className="text-gray-700">Our next beautiful chapter is being written...</p>
+                      </div>
+                  </div>
+              </div>
+          </div>
+      </div>
     
       {/* 6th Month Modal */}
       <div id="modal-6" className="modal fixed inset-0 flex items-center justify-center z-50">
@@ -528,7 +597,174 @@ function App() {
               </div>
           </div>
       </div>
-      
+      {/* 7th Month Modal */}
+      <div id="modal-7" className="modal fixed inset-0 flex items-center justify-center z-50">
+          <div className="modal-overlay absolute inset-0"></div>
+          <div className="modal-container bg-white w-11/12 md:max-w-2xl mx-auto rounded-xl shadow-lg z-50 overflow-y-auto max-h-screen">
+              <div className="modal-content py-4 px-6">
+                  <div className="flex justify-between items-center pb-3">
+                      <div className="modal-close cursor-pointer z-50 p-2">
+                          <i className="fas fa-times text-gray-500 hover:text-gray-700"></i>
+                      </div>
+                  </div>
+                  <div className="px-6 pb-6">
+                      <div className="bg-pink-50 p-6 rounded-lg mb-6">
+                          <h2 className="dancing-script text-3xl text-center text-pink-500">7th Monthsary</h2>
+                          <p className="text-center text-gray-600">Coming Soon</p>
+                      </div>
+                      
+                      <div className="letter-content text-center">
+                          <i className="fas fa-heart text-5xl text-pink-300 mb-6"></i>
+                          <p className="text-gray-700">Our next beautiful chapter is being written...</p>
+                      </div>
+                  </div>
+              </div>
+          </div>
+      </div>
+      {/* 8th Month Modal */}
+      <div id="modal-8" className="modal fixed inset-0 flex items-center justify-center z-50">
+          <div className="modal-overlay absolute inset-0"></div>
+          <div className="modal-container bg-white w-11/12 md:max-w-2xl mx-auto rounded-xl shadow-lg z-50 overflow-y-auto max-h-screen">
+              <div className="modal-content py-4 px-6">
+                  <div className="flex justify-between items-center pb-3">
+                      <div className="modal-close cursor-pointer z-50 p-2">
+                          <i className="fas fa-times text-gray-500 hover:text-gray-700"></i>
+                      </div>
+                  </div>
+                  <div className="px-6 pb-6">
+                      <div className="bg-pink-50 p-6 rounded-lg mb-6">
+                          <h2 className="dancing-script text-3xl text-center text-pink-500">8th Monthsary</h2>
+                          <p className="text-center text-gray-600">Coming Soon</p>
+                      </div>
+                      
+                      <div className="letter-content text-center">
+                          <i className="fas fa-heart text-5xl text-pink-300 mb-6"></i>
+                          <p className="text-gray-700">Our next beautiful chapter is being written...</p>
+                      </div>
+                  </div>
+              </div>
+          </div>
+      </div>
+      {/* 9th Month Modal */}
+      <div id="modal-9" className="modal fixed inset-0 flex items-center justify-center z-50">
+          <div className="modal-overlay absolute inset-0"></div>
+          <div className="modal-container bg-white w-11/12 md:max-w-2xl mx-auto rounded-xl shadow-lg z-50 overflow-y-auto max-h-screen">
+              <div className="modal-content py-4 px-6">
+                  <div className="flex justify-between items-center pb-3">
+                      <div className="modal-close cursor-pointer z-50 p-2">
+                          <i className="fas fa-times text-gray-500 hover:text-gray-700"></i>
+                      </div>
+                  </div>
+                  <div className="px-6 pb-6">
+                      <div className="bg-pink-50 p-6 rounded-lg mb-6">
+                          <h2 className="dancing-script text-3xl text-center text-pink-500">9th Monthsary</h2>
+                          <p className="text-center text-gray-600">Coming Soon</p>
+                      </div>
+                      
+                      <div className="letter-content text-center">
+                          <i className="fas fa-heart text-5xl text-pink-300 mb-6"></i>
+                          <p className="text-gray-700">Our next beautiful chapter is being written...</p>
+                      </div>
+                  </div>
+              </div>
+          </div>
+      </div>
+      {/* 10th Month Modal */}
+      <div id="modal-10" className="modal fixed inset-0 flex items-center justify-center z-50">
+          <div className="modal-overlay absolute inset-0"></div>
+          <div className="modal-container bg-white w-11/12 md:max-w-2xl mx-auto rounded-xl shadow-lg z-50 overflow-y-auto max-h-screen">
+              <div className="modal-content py-4 px-6">
+                  <div className="flex justify-between items-center pb-3">
+                      <div className="modal-close cursor-pointer z-50 p-2">
+                          <i className="fas fa-times text-gray-500 hover:text-gray-700"></i>
+                      </div>
+                  </div>
+                  <div className="px-6 pb-6">
+                      <div className="bg-pink-50 p-6 rounded-lg mb-6">
+                          <h2 className="dancing-script text-3xl text-center text-pink-500">10th Monthsary</h2>
+                          <p className="text-center text-gray-600">Coming Soon</p>
+                      </div>
+                      
+                      <div className="letter-content text-center">
+                          <i className="fas fa-heart text-5xl text-pink-300 mb-6"></i>
+                          <p className="text-gray-700">Our next beautiful chapter is being written...</p>
+                      </div>
+                  </div>
+              </div>
+          </div>
+      </div>
+      {/* 11th Month Modal */}
+      <div id="modal-11" className="modal fixed inset-0 flex items-center justify-center z-50">
+          <div className="modal-overlay absolute inset-0"></div>
+          <div className="modal-container bg-white w-11/12 md:max-w-2xl mx-auto rounded-xl shadow-lg z-50 overflow-y-auto max-h-screen">
+              <div className="modal-content py-4 px-6">
+                  <div className="flex justify-between items-center pb-3">
+                      <div className="modal-close cursor-pointer z-50 p-2">
+                          <i className="fas fa-times text-gray-500 hover:text-gray-700"></i>
+                      </div>
+                  </div>
+                  <div className="px-6 pb-6">
+                      <div className="bg-pink-50 p-6 rounded-lg mb-6">
+                          <h2 className="dancing-script text-3xl text-center text-pink-500">11th Monthsary</h2>
+                          <p className="text-center text-gray-600">Coming Soon</p>
+                      </div>
+                      
+                      <div className="letter-content text-center">
+                          <i className="fas fa-heart text-5xl text-pink-300 mb-6"></i>
+                          <p className="text-gray-700">Our next beautiful chapter is being written...</p>
+                      </div>
+                  </div>
+              </div>
+          </div>
+      </div>
+      {/* 12th Month Modal */}
+      <div id="modal-12" className="modal fixed inset-0 flex items-center justify-center z-50">
+          <div className="modal-overlay absolute inset-0"></div>
+          <div className="modal-container bg-white w-11/12 md:max-w-2xl mx-auto rounded-xl shadow-lg z-50 overflow-y-auto max-h-screen">
+              <div className="modal-content py-4 px-6">
+                  <div className="flex justify-between items-center pb-3">
+                      <div className="modal-close cursor-pointer z-50 p-2">
+                          <i className="fas fa-times text-gray-500 hover:text-gray-700"></i>
+                      </div>
+                  </div>
+                  <div className="px-6 pb-6">
+                      <div className="bg-pink-50 p-6 rounded-lg mb-6">
+                          <h2 className="dancing-script text-3xl text-center text-pink-500">12th Monthsary</h2>
+                          <p className="text-center text-gray-600">Coming Soon</p>
+                      </div>
+                      
+                      <div className="letter-content text-center">
+                          <i className="fas fa-heart text-5xl text-pink-300 mb-6"></i>
+                          <p className="text-gray-700">Our next beautiful chapter is being written...</p>
+                      </div>
+                  </div>
+              </div>
+          </div>
+      </div>
+      {/* 9999th Month Modal */}
+      <div id="modal-13" className="modal fixed inset-0 flex items-center justify-center z-50">
+          <div className="modal-overlay absolute inset-0"></div>
+          <div className="modal-container bg-white w-11/12 md:max-w-2xl mx-auto rounded-xl shadow-lg z-50 overflow-y-auto max-h-screen">
+              <div className="modal-content py-4 px-6">
+                  <div className="flex justify-between items-center pb-3">
+                      <div className="modal-close cursor-pointer z-50 p-2">
+                          <i className="fas fa-times text-gray-500 hover:text-gray-700"></i>
+                      </div>
+                  </div>
+                  <div className="px-6 pb-6">
+                      <div className="bg-pink-50 p-6 rounded-lg mb-6">
+                          <h2 className="dancing-script text-3xl text-center text-pink-500">9999th Monthsary</h2>
+                          <p className="text-center text-gray-600">Coming Soon</p>
+                      </div>
+                      
+                      <div className="letter-content text-center">
+                          <i className="fas fa-heart text-5xl text-pink-300 mb-6"></i>
+                          <p className="text-gray-700">Our next beautiful chapter is being written...</p>
+                      </div>
+                  </div>
+              </div>
+          </div>
+      </div>
       {/* Gallery Modals*/}
       {albums.map(({ folder, title, total }, idx) => {
         const featured = getImageUrl(folder, "featured");
