@@ -809,7 +809,7 @@ function App() {
           <div className="container mx-auto text-center">
               
               <p className="dancing-script text-2xl mb-4">Made with <i className="fas fa-heart text-pink-400"></i> for you</p>
-              <p>© 2025 Our Monthsary. All rights reserved.</p>
+             
           </div>
       </footer>
     </>
