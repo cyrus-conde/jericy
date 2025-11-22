@@ -515,7 +515,7 @@ function App() {
                           <h2 className="dancing-script text-3xl text-center text-pink-500">3rd Monthsary</h2>
                           <p className="text-center text-gray-600">November 23, 2025</p>
                       </div>
-                      
+                      {/*
                       <div className="letter-content">
                           <i className="fas fa-heart text-5xl text-pink-300 mb-6"></i>
                           <p className="dancing-script text-xl text-gray-700 mb-4">Hello Ai,</p>
@@ -556,17 +556,9 @@ function App() {
                                 Happy 3rd month, Ai. I LOVE YOU FOREVER!!!
                             </p>
                             <p className="dancing-script text-xl text-gray-700 mt-8">Forever yours,<br/>Cyrus Conde gwapo</p>
-                            {/*
                             
-                            Ai, sakit gud kaayo, nasakitan kaayo ko. I wish wa nalang ko niuli dinha atong niagi para dili nako mahibal-an, ma-experience, ug masaksihan ang kung unsa man ang mga nakapasakit nako.
-                            But, I am still thankful nga naka-uli ko para ma-prove sab nako nimo ug unsa tika ka-love.
-                            Did you know na katong bag-o kong uli dira kay sayo ko ni-uli paghuman nakog hatod saimoha? And wala ko gatambay sainyong balay inig mag work ka? Because klaro sa akoa katong dili pa kita, nga ginakapoy ka pag permi ko naa.
-                            But pag abot pila ka-adlaw, nibalik ra gihapon ko nang mag sige tambay sainyoha kay gusto nako kung unsa man ko sauna tong wala pa nagkita kay mao ra gihapon ko, bisan gina kapoy ka sa akoa kay magpakita ra gihapon ko permi. And aside pud ana, nangita sab kas akoa, nga abi nimog naa ko sainyoha.
-                            
-                            And isa sa nakapa-sakit sa akoa, di nalang ko mag mention ug name kay masakitan ka ug apil. Bisan pa man ug friend mo karon, ex gihapon nimo na, di nimo na matanggal nga ex nimo na. I hope kabalo ka muhatag ug boundary sa kana nga butang, we talked about that already, and you agreed sakoa gipang sulti before pa ta nag uyab, and yet here you are breaking your words again. I told you before nga ug way laing makahatod nimo, ayaw ug kuyog sa laag. Ka-simple ra ana, di nimo na mahatag sa akoa?
-                          
-                          */}
                       </div>
+                       */}
                   </div>
               </div>
           </div>
