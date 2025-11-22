@@ -513,12 +513,59 @@ function App() {
                   <div className="px-6 pb-6">
                       <div className="bg-pink-50 p-6 rounded-lg mb-6">
                           <h2 className="dancing-script text-3xl text-center text-pink-500">3rd Monthsary</h2>
-                          <p className="text-center text-gray-600">Coming Soon</p>
+                          <p className="text-center text-gray-600">November 23, 2025</p>
                       </div>
                       
                       <div className="letter-content text-center">
                           <i className="fas fa-heart text-5xl text-pink-300 mb-6"></i>
-                          <p className="text-gray-700">Our next beautiful chapter is being written...</p>
+                          <p className="dancing-script text-xl text-gray-700 mb-4">Hello Ai,</p>
+                          <p className="text-gray-700 mb-4">I wanna start this message with a thank you. Thank you, God,
+                            for guiding us, for letting us get through sa 3 months of our love. And thank you, Ai, for being you. I love you.
+                          </p>
+                          <p className="text-gray-700 mb-4">
+                            On our 2nd month, I will not say anything anymore about that para dili na ta magbalik ana nga istorya. Sorry.
+                          </p>
+                          <p className="text-gray-700 mb-4">
+                            Today marks our 3rd month of love, but I don't know where to start. Should I start about why am I hurting? or should I express my love first?
+                            Ah... maybe I could ask a question first. Tell me what you really feel right now, do you still love me the same?
+                            Did you even know that I wasn't crying because gina-singkahan ko nimo? I was crying because sakit kaayo sa akoa kung unsa man ang nahitabo ana.
+                            </p>
+                          <p className="text-gray-700 mb-4">  Ai, sakit gud kaayo, nasakitan kaayo ko, I hope ma-realize nimo na. Dili nako mag istorya pa ug daghan about ani kay ingnan ra gihapon ko nimog reklamador, but if you want nga istoryahan nato nig tarong, lemme know.
+                            </p>
+                            <p className="text-gray-700 mb-4"> I am just hoping nga tumanon nimo kung unsa atong mga nasabotan. Kung unsa imong gipang promise sa akoa. No matter what.
+                            Also I am hoping that you'll set boundaries, just please protect my peace.
+                            There's only one thing that I want you to keep in your mind. Do not ever say a word you can't fulfill, because I have a good memory when it comes to promises, and I am being left disappointed.
+                            </p>
+                            <p className="text-gray-700 mb-4"> Dili ko ganahan mabalik kos akong toxic side ai, nga i-mirror ug unsay ginapakita sa akoa. Pero I think I must lower my expectations and efforts para dili ko ma-drain. Kay love man tika kaayo, gusto nako ni i-fight hangtod buhi pa.
+                            </p><p className="text-gray-700 mb-4">
+                            Muingon ka ug mali ni tanan akong gi-message diri? No. I saw your efforts Ai, and I appreciate that, no joke.
+                            I saw how you tried pleasing me to meet my expectations, how you supported me, and how you loved me.
+                            Thank you so much, Ai! Thank you for loving me. I love you so much. I love you forever!
+                            </p>
+                            <p className="text-gray-700 mb-4">
+                            I know that this is just a challenge for us. No relationship is perfect. God is testing us if we can survive the challenge. I love you.
+                            </p>
+                            <p className="text-gray-700 mb-4">
+                                Ayaw gyud pag buang2 kay ikaw raba ang emergency contact nako sa among company HAHAHAHA bitaw. I love you so much, Ai.
+                                I am sorry for everything. I hope dili ka kapoyon sa akoa. Love tika kaayo sobraaaaa!!!
+                            </p>
+                            <p className="text-gray-700 mb-4">
+                                I dunno if naa bay mga mamali nimo ug sabot diri, or di ka uyon, or ambot unsa bay mga negative dinha. If so, just tell me ha.
+                            </p>
+                            <p className="text-gray-700 mb-4">
+                                Happy 3rd month, Ai. I LOVE YOU FOREVER!!!
+                            </p>
+                            <p className="dancing-script text-xl text-gray-700 mt-8">Forever yours,<br/>Cyrus Conde gwapo</p>
+                            {/*
+                            
+                            Ai, sakit gud kaayo, nasakitan kaayo ko. I wish wa nalang ko niuli dinha atong niagi para dili nako mahibal-an, ma-experience, ug masaksihan ang kung unsa man ang mga nakapasakit nako.
+                            But, I am still thankful nga naka-uli ko para ma-prove sab nako nimo ug unsa tika ka-love.
+                            Did you know na katong bag-o kong uli dira kay sayo ko ni-uli paghuman nakog hatod saimoha? And wala ko gatambay sainyong balay inig mag work ka? Because klaro sa akoa katong dili pa kita, nga ginakapoy ka pag permi ko naa.
+                            But pag abot pila ka-adlaw, nibalik ra gihapon ko nang mag sige tambay sainyoha kay gusto nako kung unsa man ko sauna tong wala pa nagkita kay mao ra gihapon ko, bisan gina kapoy ka sa akoa kay magpakita ra gihapon ko permi. And aside pud ana, nangita sab kas akoa, nga abi nimog naa ko sainyoha.
+                            
+                            And isa sa nakapa-sakit sa akoa, di nalang ko mag mention ug name kay masakitan ka ug apil. Bisan pa man ug friend mo karon, ex gihapon nimo na, di nimo na matanggal nga ex nimo na. I hope kabalo ka muhatag ug boundary sa kana nga butang, we talked about that already, and you agreed sakoa gipang sulti before pa ta nag uyab, and yet here you are breaking your words again. I told you before nga ug way laing makahatod nimo, ayaw ug kuyog sa laag. Ka-simple ra ana, di nimo na mahatag sa akoa?
+                          
+                          */}
                       </div>
                   </div>
               </div>
