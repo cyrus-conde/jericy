@@ -533,7 +533,7 @@ function App() {
                           <p className="text-gray-700 mb-4">  Ai, sakit gud kaayo, nasakitan kaayo ko, I hope ma-realize nimo na. Dili nako mag istorya pa ug daghan about ani kay ingnan ra gihapon ko nimog reklamador, but if you want nga istoryahan nato nig tarong, lemme know.
                             </p>
                             <p className="text-gray-700 mb-4"> I am just hoping nga tumanon nimo kung unsa atong mga nasabotan. Kung unsa imong gipang promise sa akoa. No matter what.
-                            Also I am hoping that you'll set boundaries, just please please protect my peace.
+                            Also I am hoping that you'll protect my heart, just please please protect my peace.
                             There's only one thing that I want you to keep in your mind. Do not ever say a word you can't fulfill, because I have a good memory when it comes to promises, and I am being left disappointed.
                             </p>
                             <p className="text-gray-700 mb-4">I miss you. I miss us. I miss those moments na ingon ka nga dili matulog ug dili ma-okay, kanang istoryahan dayon unsay problema, kanang solbaron dayon unsa ang problema. Sorry kung I am being reklamador these days, Ai.</p>
