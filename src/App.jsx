@@ -446,7 +446,7 @@ function App() {
                   </div>
                   <div className="px-6 pb-6">
                       <div className="bg-pink-50 p-6 rounded-lg mb-6">
-                          <h2 className="dancing-script text-3xl text-center text-pink-500">1st Monthsary</h2>
+                          <h2 className="dancing-script text-3xl text-center text-pink-500">1st Month</h2>
                           <p className="text-center text-gray-600">September 23, 2025</p>
                       </div>
                       
@@ -487,13 +487,13 @@ function App() {
                   </div>
                   <div className="px-6 pb-6">
                       <div className="bg-pink-50 p-6 rounded-lg mb-6">
-                          <h2 className="dancing-script text-3xl text-center text-pink-500">2nd Monthsary</h2>
-                          <p className="text-center text-gray-600">Coming Soon</p>
+                          <h2 className="dancing-script text-3xl text-center text-pink-500">2nd Month</h2>
+                          <p className="text-center text-gray-600">October 23, 2025</p>
                       </div>
                       
                       <div className="letter-content text-center">
                           <i className="fas fa-heart text-5xl text-pink-300 mb-6"></i>
-                          <p className="text-gray-700">Our next beautiful chapter is being written...</p>
+                          <p className="text-gray-700">...</p>
                       </div>
                   </div>
               </div>
@@ -512,7 +512,7 @@ function App() {
                   </div>
                   <div className="px-6 pb-6">
                       <div className="bg-pink-50 p-6 rounded-lg mb-6">
-                          <h2 className="dancing-script text-3xl text-center text-pink-500">3rd Monthsary</h2>
+                          <h2 className="dancing-script text-3xl text-center text-pink-500">3rd Month</h2>
                           <p className="text-center text-gray-600">November 23, 2025</p>
                       </div>
                       
