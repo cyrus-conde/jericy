@@ -515,7 +515,7 @@ function App() {
                           <h2 className="dancing-script text-3xl text-center text-pink-500">3rd Monthsary</h2>
                           <p className="text-center text-gray-600">November 23, 2025</p>
                       </div>
-                      {/*
+                      
                       <div className="letter-content">
                           <i className="fas fa-heart text-5xl text-pink-300 mb-6"></i>
                           <p className="dancing-script text-xl text-gray-700 mb-4">Hello Ai,</p>
@@ -533,10 +533,11 @@ function App() {
                           <p className="text-gray-700 mb-4">  Ai, sakit gud kaayo, nasakitan kaayo ko, I hope ma-realize nimo na. Dili nako mag istorya pa ug daghan about ani kay ingnan ra gihapon ko nimog reklamador, but if you want nga istoryahan nato nig tarong, lemme know.
                             </p>
                             <p className="text-gray-700 mb-4"> I am just hoping nga tumanon nimo kung unsa atong mga nasabotan. Kung unsa imong gipang promise sa akoa. No matter what.
-                            Also I am hoping that you'll set boundaries, just please protect my peace.
+                            Also I am hoping that you'll set boundaries, just please please protect my peace.
                             There's only one thing that I want you to keep in your mind. Do not ever say a word you can't fulfill, because I have a good memory when it comes to promises, and I am being left disappointed.
                             </p>
-                            <p className="text-gray-700 mb-4"> Dili ko ganahan mabalik kos akong toxic side ai, nga i-mirror ug unsay ginapakita sa akoa. Pero I think I must lower my expectations and efforts para dili ko ma-drain. Kay love man tika kaayo, gusto nako ni i-fight hangtod buhi pa.
+                            <p className="text-gray-700 mb-4">I miss you. I miss us. I miss those moments na ingon ka nga dili matulog ug dili ma-okay, kanang istoryahan dayon unsay problema, kanang solbaron dayon unsa ang problema. Sorry kung I am being reklamador these days, Ai.</p>
+                            <p className="text-gray-700 mb-4"> Dili ko ganahan mabalik kos akong toxic side ai, nga i-mirror ug unsay ginapakita sa akoa. Pero I think I must lower my expectations and efforts para dili ko ma-drain. Kay love man tika kaayo, gusto nako ni i-fight hangtod buhi pa. I am practicing habits to reduce negative thinking, this way, we both win.
                             </p><p className="text-gray-700 mb-4">
                             Muingon ka ug mali ni tanan akong gi-message diri? No. I saw your efforts Ai, and I appreciate that, no joke.
                             I saw how you tried pleasing me to meet my expectations, how you supported me, and how you loved me.
@@ -558,7 +559,7 @@ function App() {
                             <p className="dancing-script text-xl text-gray-700 mt-8">Forever yours,<br/>Cyrus Conde gwapo</p>
                             
                       </div>
-                       */}
+                       
                   </div>
               </div>
           </div>
