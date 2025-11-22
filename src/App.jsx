@@ -516,7 +516,7 @@ function App() {
                           <p className="text-center text-gray-600">November 23, 2025</p>
                       </div>
                       
-                      <div className="letter-content text-center">
+                      <div className="letter-content">
                           <i className="fas fa-heart text-5xl text-pink-300 mb-6"></i>
                           <p className="dancing-script text-xl text-gray-700 mb-4">Hello Ai,</p>
                           <p className="text-gray-700 mb-4">I wanna start this message with a thank you. Thank you, God,
