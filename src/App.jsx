@@ -582,12 +582,12 @@ function App() {
                       
                       <div className="letter-content text-center">
                           <i className="fas fa-heart text-5xl text-pink-300 mb-6"></i>
-                          <p className="text-gray-700">Hi Ai! It’s our 4th month now. Thank you so much for everything, for understanding, for caring, and especially for staying.</p>
-                          <p className="text-gray-700">Kani akong pinaka ganahan na month kay dinhi mas ning deep atoang love, mura ba ug gina try nato ug correct ang atoang gina lalisan sa past months. Pasalamat jud kaayo ko kay naabot ta ana. Thankful sab kaayo ko kay naka uli ko, Ai, wa ko ga-expect na maka uli ko kay ana kos akong self nga murag di jud ko makauli, but gitagaan gyud tag chance na magkuyog, and mas naka nindot kay kuyog ta Christmas hihi 😊</p>
-                          <p className="text-gray-700">Gina type nako ni ron Ai ba nga nalibang hahahaha sorry jud ug madugayan ko ug gawas sa cr.</p>
-                          <p className="text-gray-700">Sorry kaayo Ai sa akong mga sala saimoha, sa akong mga nasulti nga sakit saimoha. Love tika kaayo ai sobra jud kaayo. Love tika forever. I love you forever Aii😘 </p>
-                          <p className="text-gray-700">Ai, Makab-ot ra lagi nato na puhon ang atong gusto Ai, maka business rata puhon kaluy-an. Maningkamot ta Ai, maningkamot ko. Para nis atong future. I love you so much Ai.</p>
-                          <p className="text-gray-700">Giingnan na tika Ai nga 23 na karon kay di kko kapugong sakong gibati hahahahahaha gusto nako isulti nimo. I love you Aiii😘😘😘 Happy 4th Ai! I love you so much! Mwuaaahh! </p>
+                          <p className="text-gray-700 mb-4">Hi Ai! It’s our 4th month now. Thank you so much for everything, for understanding, for caring, and especially for staying.</p>
+                          <p className="text-gray-700 mb-4">Kani akong pinaka ganahan na month kay dinhi mas ning deep atoang love, mura ba ug gina try nato ug correct ang atoang gina lalisan sa past months. Pasalamat jud kaayo ko kay naabot ta ana. Thankful sab kaayo ko kay naka uli ko, Ai, wa ko ga-expect na maka uli ko kay ana kos akong self nga murag di jud ko makauli, but gitagaan gyud tag chance na magkuyog, and mas naka nindot kay kuyog ta Christmas hihi 😊</p>
+                          <p className="text-gray-700 mb-4">Gina type nako ni ron Ai ba nga nalibang hahahaha sorry jud ug madugayan ko ug gawas sa cr.</p>
+                          <p className="text-gray-700 mb-4">Sorry kaayo Ai sa akong mga sala saimoha, sa akong mga nasulti nga sakit saimoha. Love tika kaayo ai sobra jud kaayo. Love tika forever. I love you forever Aii😘 </p>
+                          <p className="text-gray-700 mb-4">Ai, Makab-ot ra lagi nato na puhon ang atong gusto Ai, maka business rata puhon kaluy-an. Maningkamot ta Ai, maningkamot ko. Para nis atong future. I love you so much Ai.</p>
+                          <p className="text-gray-700 mb-4">Giingnan na tika Ai nga 23 na karon kay di kko kapugong sakong gibati hahahahahaha gusto nako isulti nimo. I love you Aiii😘😘😘 Happy 4th Ai! I love you so much! Mwuaaahh! </p>
                       </div>
                   </div>
               </div>
