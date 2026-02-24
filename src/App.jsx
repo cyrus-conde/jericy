@@ -580,9 +580,10 @@ function App() {
                           <p className="text-center text-gray-600">December 23, 2025</p>
                       </div>
                       
-                      <div className="letter-content text-center">
+                      <div className="letter-content">
                           <i className="fas fa-heart text-5xl text-pink-300 mb-6"></i>
-                          <p className="text-gray-700 mb-4">Hi Ai! It’s our 4th month now. Thank you so much for everything, for understanding, for caring, and especially for staying.</p>
+                          <p className="dancing-script text-xl text-gray-700 mb-4">Hi Ai,</p>
+                          <p className="text-gray-700 mb-4">It’s our 4th month now. Thank you so much for everything, for understanding, for caring, and especially for staying.</p>
                           <p className="text-gray-700 mb-4">Kani akong pinaka ganahan na month kay dinhi mas ning deep atoang love, mura ba ug gina try nato ug correct ang atoang gina lalisan sa past months. Pasalamat jud kaayo ko kay naabot ta ana. Thankful sab kaayo ko kay naka uli ko, Ai, wa ko ga-expect na maka uli ko kay ana kos akong self nga murag di jud ko makauli, but gitagaan gyud tag chance na magkuyog, and mas naka nindot kay kuyog ta Christmas hihi 😊</p>
                           <p className="text-gray-700 mb-4">Gina type nako ni ron Ai ba nga nalibang hahahaha sorry jud ug madugayan ko ug gawas sa cr.</p>
                           <p className="text-gray-700 mb-4">Sorry kaayo Ai sa akong mga sala saimoha, sa akong mga nasulti nga sakit saimoha. Love tika kaayo ai sobra jud kaayo. Love tika forever. I love you forever Aii😘 </p>
@@ -609,9 +610,9 @@ function App() {
                           <p className="text-center text-gray-600">January 23, 2026</p>
                       </div>
                       
-                      <div className="letter-content text-center">
+                      <div className="letter-content">
                           <i className="fas fa-heart text-5xl text-pink-300 mb-6"></i>
-                          <p className="text-gray-700 mb-4">Hi Mary Jane HAHAHA!</p>
+                          <p className="dancing-script text-xl text-gray-700 mb-4">Hi Mary Jane HAHAHA!</p>
                           <p className="text-gray-700 mb-4">5 months na ta ron, happy ko nga naabot ta ani even if daghan nata naagian challenges, I know di pa ni mao pero laban ra ta and padayon sa atong love duha.</p>
                           <p className="text-gray-700 mb-4">Thankful jud kaayo ko Ai kay natagaan ko opportunity diris duol para mapaduol ta duha. Dili man ko ganahan dinhis duol ai pero karon nakita nako akoa self mag work ug dugay dinhi.</p>
                           <p className="text-gray-700 mb-4">Ai, sorry ug mataasan tikag tingog usahay ai. Please understand Ai, dili nako mag explain pa why pero I hope ma understand ko nimo usahay, bahala dili permi pero unta taas pa tag pasensya sa usag-usa. </p>
@@ -641,9 +642,9 @@ function App() {
                           <p className="text-center text-gray-600">February 23, 2026</p>
                       </div>
                       
-                      <div className="letter-content text-center">
+                      <div className="letter-content">
                           <i className="fas fa-heart text-5xl text-pink-300 mb-6"></i>
-                          <p className="text-gray-700 mb-4">Hi Ai!</p>
+                          <p className="dancing-script text-xl text-gray-700 mb-4">Hi Ai,</p>
                           <p className="text-gray-700 mb-4">
                             First of all, sorry kay karon pa naka greet hehe busy lang jud siguro ta kagahapon and katong niaging adlaw kay nakalimot ko sa 23 nga date, nawala sakong huna-huna. Pero to be honest, kadtong wala pay 22, naka-remember pajud ko sa 23, sadihang nawala sakoa huna-huna hahaha sorry Aiii. Ikaw? Naka-limot sab ka nooo? Wala man ka nag greet sa akoa.  
                           </p>
@@ -655,6 +656,9 @@ function App() {
                           </p>
                           <p className="text-gray-700 mb-4">
                             Anyway, unta pilion nato ang usa'g-usa perminte, unta layo pata ug maabtan, excited na raba ko sa atoang cebu trip hehe sorry ai kung na-short ko sa budget, fixed naman gud tana to atong naa pakog cebu pero naka uli man hehe ulian ra tika anaaa. I love you so much Ai!!! Happy kaayo ko nga naka-ila tika, bisan karon nga dugay na ta, happy japun kaayo ko nga ikaw akoang girlfriend. I want to experience the world with youuu. Unta unta unta mag success ang mga plano hehe tinabangay lang ta ai kay para mani sa atoa.
+                          </p>
+                          <p className="text-gray-700 mb-4">
+                            Hulat-hulata lang sa ang akoang success Ai ha, i-harvest rana nato puhonnn. Pray lang ta dala paningkamot hehe and I pray sab nga ma-achieve na nimo ang imohang gusto sa life. I love you from the bottom of my heart. Mwaa ;*
                           </p>
                           <p className="text-gray-700 mb-4">
                             I LOVE YOU SO MUCH AIII!!! ;* I LOVE YOU FOREVEERRR!!! HAPPY 6th MONTH AIII ♥♥♥  
@@ -684,8 +688,9 @@ function App() {
                           <p className="text-center text-gray-600">Coming Soon</p>
                       </div>
                       
-                      <div className="letter-content text-center">
+                      <div className="letter-content">
                           <i className="fas fa-heart text-5xl text-pink-300 mb-6"></i>
+                          <p className="dancing-script text-xl text-gray-700 mb-4">Hello,</p>
                           <p className="text-gray-700">Our next beautiful chapter is being written...</p>
                       </div>
                   </div>
@@ -708,8 +713,9 @@ function App() {
                           <p className="text-center text-gray-600">Coming Soon</p>
                       </div>
                       
-                      <div className="letter-content text-center">
+                      <div className="letter-content">
                           <i className="fas fa-heart text-5xl text-pink-300 mb-6"></i>
+                          <p className="dancing-script text-xl text-gray-700 mb-4">Hello,</p>
                           <p className="text-gray-700">Our next beautiful chapter is being written...</p>
                       </div>
                   </div>
@@ -732,8 +738,9 @@ function App() {
                           <p className="text-center text-gray-600">Coming Soon</p>
                       </div>
                       
-                      <div className="letter-content text-center">
+                      <div className="letter-content">
                           <i className="fas fa-heart text-5xl text-pink-300 mb-6"></i>
+                          <p className="dancing-script text-xl text-gray-700 mb-4">Hello,</p>
                           <p className="text-gray-700">Our next beautiful chapter is being written...</p>
                       </div>
                   </div>
@@ -756,8 +763,9 @@ function App() {
                           <p className="text-center text-gray-600">Coming Soon</p>
                       </div>
                       
-                      <div className="letter-content text-center">
+                      <div className="letter-content">
                           <i className="fas fa-heart text-5xl text-pink-300 mb-6"></i>
+                          <p className="dancing-script text-xl text-gray-700 mb-4">Hello,</p>
                           <p className="text-gray-700">Our next beautiful chapter is being written...</p>
                       </div>
                   </div>
@@ -780,8 +788,9 @@ function App() {
                           <p className="text-center text-gray-600">Coming Soon</p>
                       </div>
                       
-                      <div className="letter-content text-center">
+                      <div className="letter-content">
                           <i className="fas fa-heart text-5xl text-pink-300 mb-6"></i>
+                          <p className="dancing-script text-xl text-gray-700 mb-4">Hello,</p>
                           <p className="text-gray-700">Our next beautiful chapter is being written...</p>
                       </div>
                   </div>
@@ -804,8 +813,9 @@ function App() {
                           <p className="text-center text-gray-600">Coming Soon</p>
                       </div>
                       
-                      <div className="letter-content text-center">
+                      <div className="letter-content">
                           <i className="fas fa-heart text-5xl text-pink-300 mb-6"></i>
+                          <p className="dancing-script text-xl text-gray-700 mb-4">Hello,</p>
                           <p className="text-gray-700">Our next beautiful chapter is being written...</p>
                       </div>
                   </div>
@@ -828,8 +838,9 @@ function App() {
                           <p className="text-center text-gray-600">Coming Soon</p>
                       </div>
                       
-                      <div className="letter-content text-center">
+                      <div className="letter-content">
                           <i className="fas fa-heart text-5xl text-pink-300 mb-6"></i>
+                          <p className="dancing-script text-xl text-gray-700 mb-4">Hello,</p>
                           <p className="text-gray-700">Our next beautiful chapter is being written...</p>
                       </div>
                   </div>
