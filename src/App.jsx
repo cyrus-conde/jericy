@@ -606,7 +606,7 @@ function App() {
                   <div className="px-6 pb-6">
                       <div className="bg-pink-50 p-6 rounded-lg mb-6">
                           <h2 className="dancing-script text-3xl text-center text-pink-500">4th Monthsary</h2>
-                          <p className="text-center text-gray-600">January 23, 2025</p>
+                          <p className="text-center text-gray-600">January 23, 2026</p>
                       </div>
                       
                       <div className="letter-content text-center">
@@ -638,12 +638,31 @@ function App() {
                   <div className="px-6 pb-6">
                       <div className="bg-pink-50 p-6 rounded-lg mb-6">
                           <h2 className="dancing-script text-3xl text-center text-pink-500">6th Monthsary</h2>
-                          <p className="text-center text-gray-600">Coming Soon</p>
+                          <p className="text-center text-gray-600">February 23, 2026</p>
                       </div>
                       
                       <div className="letter-content text-center">
                           <i className="fas fa-heart text-5xl text-pink-300 mb-6"></i>
-                          <p className="text-gray-700">Our next beautiful chapter is being written...</p>
+                          <p className="text-gray-700 mb-4">Hi Ai!</p>
+                          <p className="text-gray-700 mb-4">
+                            First of all, sorry kay karon pa naka greet hehe busy lang jud siguro ta kagahapon and katong niaging adlaw kay nakalimot ko sa 23 nga date, nawala sakong huna-huna. Pero to be honest, kadtong wala pay 22, naka-remember pajud ko sa 23, sadihang nawala sakoa huna-huna hahaha sorry Aiii. Ikaw? Naka-limot sab ka nooo? Wala man ka nag greet sa akoa.  
+                          </p>
+                          <p className="text-gray-700 mb-4">
+                            Thank you so much Ai saimohang love, bisan usahay di jud ta magkasinabot pero I believe this is part sa atoa journey para mas malig-on ug mas pilion nato ang usa'g-usa. I just hope mag continue ang atoang growth duha, and dili mag depreciate. Unta magpaka lig-on pa ta, mag meet ta half-way, para mas masabtan nato ang usa'g-usa. Love kaayo tika ai, you know that. I am sorry if usahay masuko kas akoa or malain kas akoa, and sorry if mataasan na tika ug tingog usahay, unta ma-work nato na.
+                          </p>
+                          <p className="text-gray-700 mb-4">
+                            About sab sa church Ai, unta dili nako nimo himuon ug rason nga di ka mag church, you of all people should know nga musimba ko bisan wala ka. Dapat musimba ka kay gusto ka musimba. Dili nako mudawat ug rason nga di ka musimba kay aron tudloan ko nimo nga musimba ug ako ra. Ayaw ko tudloe ai nga ako ra isa, kaya man nako ug ako ra isa jud, kabalo ka ana. I just want to share the experience with you that's why gina include tika permi, dili lang ni kay sa church ra. Even sa pag-kaon, ug unsa pa diraa, ayaw anara nga mag iyahay ta kay basin maabot ang panahon nga maanad nako... Pero good thing is gina work na nimo na. I love you!
+                          </p>
+                          <p className="text-gray-700 mb-4">
+                            Anyway, unta pilion nato ang usa'g-usa perminte, unta layo pata ug maabtan, excited na raba ko sa atoang cebu trip hehe sorry ai kung na-short ko sa budget, fixed naman gud tana to atong naa pakog cebu pero naka uli man hehe ulian ra tika anaaa. I love you so much Ai!!! Happy kaayo ko nga naka-ila tika, bisan karon nga dugay na ta, happy japun kaayo ko nga ikaw akoang girlfriend. I want to experience the world with youuu. Unta unta unta mag success ang mga plano hehe tinabangay lang ta ai kay para mani sa atoa.
+                          </p>
+                          <p className="text-gray-700 mb-4">
+                            I LOVE YOU SO MUCH AIII!!! ;* I LOVE YOU FOREVEERRR!!! HAPPY 6th MONTH AIII ♥♥♥  
+                          </p>
+                          <p className="text-gray-700 mb-4">
+                            Wala sa tay pa-flowers ron ha kay para naay pang cebu hahahaha I love youuuu ;* Movie movie lang ta later aiii.
+                          </p>
+                          <p className="dancing-script text-xl text-gray-700 mt-8">Forever yours,<br/>Cyrus Conde gwapo</p>
                       </div>
                   </div>
               </div>
