@@ -685,13 +685,29 @@ function App() {
                   <div className="px-6 pb-6">
                       <div className="bg-pink-50 p-6 rounded-lg mb-6">
                           <h2 className="dancing-script text-3xl text-center text-pink-500">7th Monthsary</h2>
-                          <p className="text-center text-gray-600">Coming Soon</p>
+                          <p className="text-center text-gray-600">March 23, 2026</p>
                       </div>
                       
                       <div className="letter-content">
                           <i className="fas fa-heart text-5xl text-pink-300 mb-6"></i>
-                          <p className="dancing-script text-xl text-gray-700 mb-4">Hello,</p>
-                          <p className="text-gray-700">Our next beautiful chapter is being written...</p>
+                          <p className="dancing-script text-xl text-gray-700 mb-4">Hello Ai,</p>
+                          <p className="text-gray-700 mb-4">
+                            7 months nataaaaa. I LOVE YOU SO MUCH!!!
+                          </p>
+                          <p className="text-gray-700 mb-4">
+                            Wala koy laing gina-dahom jud ai kundi ang kaayohan nato duha, nga unta magkasinabot ta permi, bisan paman sa naay muabot nga panaglalis unta mas pilion nato ang usa'g usa permi.
+                          </p>
+                          <p className="text-gray-700 mb-4">
+                            Sorry ai kung naay times nga maka feel kag pagduda. Wala koy lain ai. Ikaw ra akoa permi.
+                          </p>
+                          <p className="text-gray-700 mb-4">
+                            Thank you sab ai sa padayon na pagpili ug pag love sa akoa. Basta thank you jud kaayo sa tanan and sorry if dili ta magkasinabot usahay. I hope nga mas mapalig-on pa ta, unta mas magkasinabtanay pa ta.
+                          </p>
+                          <p className="text-gray-700 mb-4">
+                            Kana lang sa guro aiii. Sorry wala ko extra ronnn, bawi rako date ta puhon hehehe I LOVE YOUUU ;* </p>
+                          <p className="text-gray-700 mb-4">
+                            Happy 7th Month usab Aiii. I LOVE YOU FOREVERRR MWAAAH ;* ;* ;* </p>
+                          <p className="dancing-script text-xl text-gray-700 mt-8">Forever yours,<br/>Cyrus ;)</p>
                       </div>
                   </div>
               </div>
