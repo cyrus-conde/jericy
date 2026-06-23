@@ -726,13 +726,17 @@ function App() {
                   <div className="px-6 pb-6">
                       <div className="bg-pink-50 p-6 rounded-lg mb-6">
                           <h2 className="dancing-script text-3xl text-center text-pink-500">8th Monthsary</h2>
-                          <p className="text-center text-gray-600">Coming Soon</p>
+                          <p className="text-center text-gray-600">April 23, 2026</p>
                       </div>
                       
                       <div className="letter-content">
                           <i className="fas fa-heart text-5xl text-pink-300 mb-6"></i>
-                          <p className="dancing-script text-xl text-gray-700 mb-4">Hello,</p>
-                          <p className="text-gray-700">Our next beautiful chapter is being written...</p>
+                          <p className="dancing-script text-xl text-gray-700 mb-4">Hi Aii,</p>
+                          <p className="text-gray-700 mb-4">Our 8th month was not that good pero nalampasan nato hehe bisan galalis ta a day before sa atong adlaw, thankful gihapon kay nagkaayo ta ana nga adlaw. Wala lang ko naka hatag ug message nimo ato pero thankful kayo ko ai nga naabot ta ani nga adlaw, thankful kayo ko sa gipakita nimo sa akoa ato nga adlaw, ka-remember ka ana paka nga "mao bitaw gilutoan tika kay monthsary nato" hahahaha abi nakog nakalimot ka, gituyo tuyo rasab nako to nga inig gabie na mu-greet hahahaha
+                          </p>
+                          <p className="text-gray-700 mb-4">Thank you so much, Ai, for loving me unconditionally. Thank you kaayo kay gipili ko nimo adlaw-adlaw. Sorry sa akong Batasan usahay, Ai. We'll work it out together Ai para mas mapalig-on pa atong relasyon. Love kaayo tika sobraaaaa.</p>
+                          <p className="text-gray-700 mb-4">HAPPY 8th Months of love. I LOVE YOU FOREVERRR ♥</p>
+                          <p className="dancing-script text-xl text-gray-700 mt-8">Forever yours,<br/>Cyrus ;)</p>
                       </div>
                   </div>
               </div>
@@ -751,13 +755,18 @@ function App() {
                   <div className="px-6 pb-6">
                       <div className="bg-pink-50 p-6 rounded-lg mb-6">
                           <h2 className="dancing-script text-3xl text-center text-pink-500">9th Monthsary</h2>
-                          <p className="text-center text-gray-600">Coming Soon</p>
+                          <p className="text-center text-gray-600">May 23, 2026</p>
                       </div>
                       
                       <div className="letter-content">
                           <i className="fas fa-heart text-5xl text-pink-300 mb-6"></i>
-                          <p className="dancing-script text-xl text-gray-700 mb-4">Hello,</p>
-                          <p className="text-gray-700">Our next beautiful chapter is being written...</p>
+                          <p className="dancing-script text-xl text-gray-700 mb-4">Hello Aiii,</p>
+                          <p className="text-gray-700 mb-4">Happy 9th Month. Kani nga adlaw nato kay nakalimtan jud ni nato ba hahaha pero yeah, kita duha naka remember ani sa layo pa lang but pag abot sa adlaw kay wala na hahaha busy man gud kaayo ta ana nga week.</p>
+                          <p className="text-gray-700 mb-4">Sige nalang tag kalimot aii hahahaha pero love gihapon nato ang usag-usa. pili-on gihapon nato ang usag-usag. I love you forever Aiii.</p>
+                          <p className="text-gray-700 mb-4">Thank you kaayo sa tanan tanan Aiii. Wala man guro kaayo ta galalis ana pero sorry gihapon if naa man koy mga naingon nga maka-offend. Malampasan ra nato ni tanan pagsulay Aiii. Excited nako sa puhon. </p>
+                          <p className="text-gray-700 mb-4">I love you sooo mucchhhh. Happy 9th month Aii. Mwaaaah.
+                          </p>
+                          <p className="dancing-script text-xl text-gray-700 mt-8">Forever yours,<br/>Cyrus ;)</p>
                       </div>
                   </div>
               </div>
@@ -776,13 +785,18 @@ function App() {
                   <div className="px-6 pb-6">
                       <div className="bg-pink-50 p-6 rounded-lg mb-6">
                           <h2 className="dancing-script text-3xl text-center text-pink-500">10th Monthsary</h2>
-                          <p className="text-center text-gray-600">Coming Soon</p>
+                          <p className="text-center text-gray-600">June 23, 2026</p>
                       </div>
                       
                       <div className="letter-content">
                           <i className="fas fa-heart text-5xl text-pink-300 mb-6"></i>
-                          <p className="dancing-script text-xl text-gray-700 mb-4">Hello,</p>
-                          <p className="text-gray-700">Our next beautiful chapter is being written...</p>
+                          <p className="dancing-script text-xl text-gray-700 mb-4">Aiiii,</p>
+                          <p className="text-gray-700 mb-4">10th monthsary na natooo. hehe katong 8th and 9th kay karon palang to gibuhat nga message kay sige rakog ingon sauna nga sulatan na nako pero malimtan.</p>
+                          <p className="text-gray-700 mb-4">Happy happy 10th month aiiiii. I LOVE YOU FOREVEERRR ;* Sige man tag lalis ani aii pero thankful ko kay mas gipili nato ang usag-usa. mas mapalig-on nato ang atoang relasyon ai.</p>
+                          <p className="text-gray-700 mb-4">Wa koy lain maingon man aii, thank you lang jud kaayo sa tanan, sa pag love sa akoa permi bisan paman sa atong misunderstandings, love sab tika kaayo permi aii.</p>
+                          <p className="text-gray-700 mb-4">Atoa i-ampo ai nga matawagan najud kaaa, dili man ko maka promise nga matawagan ka pero akoa buhaton tanan connection nako para nimo ai. Love tika supeeeer!!!</p>
+                          <p className="text-gray-700 mb-4">I LOVE YOU FOREVERRR AIII ♥ HAPPY 10th MONTH. Hapit nata mag tuig hihi Mwaaaaps ;*</p>
+                          <p className="dancing-script text-xl text-gray-700 mt-8">Forever yours,<br/>Cyrus ;)</p>
                       </div>
                   </div>
               </div>
@@ -808,6 +822,7 @@ function App() {
                           <i className="fas fa-heart text-5xl text-pink-300 mb-6"></i>
                           <p className="dancing-script text-xl text-gray-700 mb-4">Hello,</p>
                           <p className="text-gray-700">Our next beautiful chapter is being written...</p>
+                          <p className="dancing-script text-xl text-gray-700 mt-8">Forever yours,<br/>Cyrus ;)</p>
                       </div>
                   </div>
               </div>
