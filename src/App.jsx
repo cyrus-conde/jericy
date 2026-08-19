@@ -820,8 +820,12 @@ function App() {
                       
                       <div className="letter-content">
                           <i className="fas fa-heart text-5xl text-pink-300 mb-6"></i>
-                          <p className="dancing-script text-xl text-gray-700 mb-4">Hello,</p>
-                          <p className="text-gray-700">Our next beautiful chapter is being written...</p>
+                          <p className="dancing-script text-xl text-gray-700 mb-4">Hi Aiii,</p>
+                          <p className="text-gray-700">11th month nato and kani nga adlaw kay gitagaan jud ta ug gift nga nindot kaayoooo. Orientation sa newly hired teachers, I hope happy ka ana aiii. Lovee kaayoo tikaaaa, dibaaa? Ana ko nimo buhaton nako tanan, tanan tanan connection nako akong gamiton. Happy kaayo ko para nimo ai nga naka sulod naka sa DepEd nga maoy gina pangandoy Ninyo ni nanay. Happy ko kay finally di naka mag sige problema kanus-a paka makasulod DepEd, happy ko kay finally taas2 na imohang sahod.</p>
+                          <p className="text-gray-700">I LOVE YOU FOREVERRR AIII ;* Unta magpadayon ta nga ing-ani, mas mag better ta sa atong life, mas mag maayo ta sa usa'g-usa, unta kung unsa ta ka-protective/caring sa physical appearance nato, ing-ana pud unta ta emotionally, salig ko nga kung magtinabangay lang ta duha permi ai, padayon lang gihapon ta permii aii. Makalingkawas rata sa kalisod puhon aiii, ikaw ra akoa permi. I LOVE YOU SO MUCHHH ;*
+</p>
+                        <p className="text-gray-700">Kana lang sa Ai kay sunod adlaw, birthday na ni cachy, ug anniversary na nato hihi happy 11th month aiii. I LOVE YOU FOREVERR AIII ;* ♥</p>
+                        
                           <p className="dancing-script text-xl text-gray-700 mt-8">Forever yours,<br/>Cyrus ;)</p>
                       </div>
                   </div>
