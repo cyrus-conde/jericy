@@ -815,7 +815,7 @@ function App() {
                   <div className="px-6 pb-6">
                       <div className="bg-pink-50 p-6 rounded-lg mb-6">
                           <h2 className="dancing-script text-3xl text-center text-pink-500">11th Monthsary</h2>
-                          <p className="text-center text-gray-600">Coming Soon</p>
+                          <p className="text-center text-gray-600">July 23, 2026</p>
                       </div>
                       
                       <div className="letter-content">
@@ -844,14 +844,22 @@ function App() {
                   </div>
                   <div className="px-6 pb-6">
                       <div className="bg-pink-50 p-6 rounded-lg mb-6">
-                          <h2 className="dancing-script text-3xl text-center text-pink-500">12th Monthsary</h2>
-                          <p className="text-center text-gray-600">Coming Soon</p>
+                          <h2 className="dancing-script text-3xl text-center text-pink-500">1st Anniversary</h2>
+                          <p className="text-center text-gray-600">August 23, 2026</p>
                       </div>
                       
                       <div className="letter-content">
                           <i className="fas fa-heart text-5xl text-pink-300 mb-6"></i>
-                          <p className="dancing-script text-xl text-gray-700 mb-4">Hello,</p>
-                          <p className="text-gray-700">Our next beautiful chapter is being written...</p>
+                          <p className="dancing-script text-xl text-gray-700 mb-4">Hi Aiii,</p>
+                          <p className="text-gray-700">1st anniversary na natooo, thank you kayo sa tanan tanan aiii. wa koy laing masulti kundi thank you and sorry sa mga lalis nato and sorry ug sige ko ug kasuko aiii. I hope nga mas maging better pa ta para sa usa'g-usaa.</p>
+                        <p className="text-gray-700">Ganahan kaayo kos atoang first anniversary kay siargao gyuddd hahahaha Wala man kaayo ta naka celebrate sa adlaw gyud kay gipang kapoy na pag uli, unta happy ka ai sa atoang trip sa siargao, bisan paman ug lahi ta ug tour, gapangita gyud ko ug paagi nga magkuyog ta, bisan inyohang tour akoa gihangyo nga usabon ang itinerary aron mag abot ta, bisan murag nalain nato akong uban kuyog hahaha bahala sila, puros raman to sila inom sab, ug free naman sab mi after saamong tour, so saimo rajud tawon ko padulong. Thankful kaayo ko kay nakakuyog ka, nagkauban ta didtoa. Salamat sa pagkuyog aiii. I love youuuu!!!
+</p>
+                        <p className="text-gray-700">Sorry if naka-gasto ka gamay aiii, kaya raman tana nako to i-shoulder gyud unta pero naghuna-huna ko ba basig walay mabilin sa atoa inig uli kay dako najud pud kaayo ang expenses ato, bawi rako sunod ai ha kanang di najud ka mugasto. I LOVE YOU SO MUCHHH AIII ♥
+</p>
+                        <p className="text-gray-700">Pasalamat jud kaayo ko kang Lord kay nilahutay gyud ta ani, nakaya nato ang challenges, pero kabalo ko di pani mao, naa pay mga muabotay ani and I hope mas mag lig-on ta para sa atong relasyon.</p>
+                        <p className="text-gray-700">Loveee kaayooo tikaaaaa. SOBRAAAAA!!! Sorry ai di pako stable enough nga ma-provide saimoha tanan, maningkamot ko ai nga makalingkawas ani para sa atoa, para maplastar nata. gusto ko mag laag2 ta nga wa tay problemahon, makab-ot rana nato puhon aiii. puhoonnnn.</p>
+                        <p className="text-gray-700">I LOVE YOU FOREVER AIII ;* Happy 1st anniversary usabbbb!!!</p>
+                        <p className="dancing-script text-xl text-gray-700 mt-8">Forever yours,<br/>Cyrus ;)</p>
                       </div>
                   </div>
               </div>
