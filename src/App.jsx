@@ -388,7 +388,34 @@ function App() {
                           <h3 className="text-xl font-semibold text-purple-700">12th Month</h3>
                           <p className="text-gray-600">August 23, 2026</p>
                       </div>
-                      <div className="month-card bg-white rounded-xl p-6 shadow-lg text-center transform hover:scale-105 transition duration-300 cursor-pointer" data-month="13">
+                    <div className="month-card bg-white rounded-xl p-6 shadow-lg text-center transform hover:scale-105 transition duration-300 cursor-pointer" data-month="13">
+                          <div className="mb-4">
+                              <div className="inline-block p-4 bg-pink-100 rounded-full">
+                                  <i className="fas fa-heart text-2xl text-pink-500"></i>
+                              </div>
+                          </div>
+                          <h3 className="text-xl font-semibold text-purple-700">13th Month</h3>
+                          <p className="text-gray-600">September 23, 2026</p>
+                      </div>
+                    <div className="month-card bg-white rounded-xl p-6 shadow-lg text-center transform hover:scale-105 transition duration-300 cursor-pointer" data-month="14">
+                          <div className="mb-4">
+                              <div className="inline-block p-4 bg-pink-100 rounded-full">
+                                  <i className="fas fa-heart text-2xl text-pink-500"></i>
+                              </div>
+                          </div>
+                          <h3 className="text-xl font-semibold text-purple-700">14th Month</h3>
+                          <p className="text-gray-600">October 23, 2026</p>
+                      </div>
+                    <div className="month-card bg-white rounded-xl p-6 shadow-lg text-center transform hover:scale-105 transition duration-300 cursor-pointer" data-month="15">
+                          <div className="mb-4">
+                              <div className="inline-block p-4 bg-pink-100 rounded-full">
+                                  <i className="fas fa-heart text-2xl text-pink-500"></i>
+                              </div>
+                          </div>
+                          <h3 className="text-xl font-semibold text-purple-700">15th Month</h3>
+                          <p className="text-gray-600">November 23, 2026</p>
+                      </div>
+                      <div className="month-card bg-white rounded-xl p-6 shadow-lg text-center transform hover:scale-105 transition duration-300 cursor-pointer" data-month="200">
                           <div className="mb-4">
                               <div className="inline-block p-4 bg-pink-100 rounded-full">
                                   <i className="fas fa-heart text-2xl text-pink-500"></i>
@@ -865,8 +892,38 @@ function App() {
               </div>
           </div>
       </div>
-      {/* 9999th Month Modal */}
+      {/* 13th Month Modal */}
       <div id="modal-13" className="modal fixed inset-0 flex items-center justify-center z-50">
+          <div className="modal-overlay absolute inset-0"></div>
+          <div className="modal-container bg-white w-11/12 md:max-w-2xl mx-auto rounded-xl shadow-lg z-50 overflow-y-auto max-h-screen">
+              <div className="modal-content py-4 px-6">
+                  <div className="flex justify-between items-center pb-3">
+                      <div className="modal-close cursor-pointer z-50 p-2">
+                          <i className="fas fa-times text-gray-500 hover:text-gray-700"></i>
+                      </div>
+                  </div>
+                  <div className="px-6 pb-6">
+                      <div className="bg-pink-50 p-6 rounded-lg mb-6">
+                          <h2 className="dancing-script text-3xl text-center text-pink-500">13th Monthsary</h2>
+                          <p className="text-center text-gray-600">September 23, 2026</p>
+                      </div>
+                      
+                      <div className="letter-content">
+                          <i className="fas fa-heart text-5xl text-pink-300 mb-6"></i>
+                          <p className="dancing-script text-xl text-gray-700 mb-4">Hello Ai,</p>
+                          <p className="text-gray-700 mb-4">Happy 13th monthsary, I just want you to know that I know nga love kaayo ko nimo, kay ug dili pa, mag care ba diay kas akoa ug masakit ko? Nakita nako tanan effort nimo ai, and I appreciate that all, sorry ai kung naingnan tikag ing-ato gabie, I didn't mean to turn it that way, Ai. I love you so much Ai.</p>
+                        <p className="text-gray-700 mb-4">I am very much thankful Ai sa pag-amping ug pag-alaga sa akoa, bisan gikapoy kaayo ka ug ikaw mismo naa sab gibati, nagpaka strong ka kay mas nasakit ko. Sorry ai ug naka-feel ka nga wa nako na Nakita tanan pero unta kabalo ka ai nga Nakita jud nako na nga mga effort nimo ug love ug care nimo.</p>
+                        <p className="text-gray-700 mb-4">Kabalo ko ai di man malikayan masakit no pero maningkamot ko nga dili magkasakit, kay gusto ko ako mag care saimoha. I love you forever aiii ;* Love tika kaayooo supeeeerrrr. Sorry sorry sa tanan ai.
+</p>
+                        <p className="text-gray-700 mb-4">Happy monthsary usab aiii. I LOVE YOU FOREVERRR AIII ;* ;*</p>
+                        <p className="dancing-script text-xl text-gray-700 mt-8">Forever yours,<br/>Cyrus ;)</p>
+                      </div>
+                  </div>
+              </div>
+          </div>
+      </div>
+      {/* 9999th Month Modal */}
+      <div id="modal-200" className="modal fixed inset-0 flex items-center justify-center z-50">
           <div className="modal-overlay absolute inset-0"></div>
           <div className="modal-container bg-white w-11/12 md:max-w-2xl mx-auto rounded-xl shadow-lg z-50 overflow-y-auto max-h-screen">
               <div className="modal-content py-4 px-6">
